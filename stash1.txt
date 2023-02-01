@@ -1,1 +1,1 @@
-git stash comm
+git stash command
